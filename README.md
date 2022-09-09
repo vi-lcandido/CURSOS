@@ -1,1 +1,1 @@
-# Exercícios de lógica de processos seletivos
+# Exercícios de lógica e de processos seletivos
