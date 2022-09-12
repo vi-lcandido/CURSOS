@@ -73,3 +73,6 @@ for (let index1 = 0; index1 < teste; index1++) {
     
     console.log(somaLed)
 }
+
+
+´[]

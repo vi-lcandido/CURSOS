@@ -27,4 +27,3 @@ if ( numero < 100 && numero > 0){
 else{
     console.log("Fora do Intervalo");
 }
-
